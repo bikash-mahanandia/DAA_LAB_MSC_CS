@@ -11,10 +11,12 @@
 
 ## 🎓 Academic Identity
 * **Student Name:** Bikash Mahanandia
-* **Degree:** Master of Science (M.Sc.)
-* **Department:** Computer Science & IT
-* **Academic Session:** 2024 - 2026
-* **Institution:** [Insert Your University Name Here]
+* **Roll No:** 25MCS009
+* **SEM:** 2nd Semester
+* **Degree:** M.Sc
+* **Department:** Computer Science
+* **Academic Session:** 2025 - 2026
+* **Institution:** Ravenshaw University , Cuttack
 
 ---
 
