@@ -10,43 +10,47 @@
 ---
 
 ## 🎓 Academic Identity
-* **Student Name:** Bikash Mahanandia
-* **Roll No:** 25MCS009
-* **SEM:** 2nd Semester
-* **Degree:** M.Sc
-* **Department:** Computer Science
-* **Academic Session:** 2025 - 2026
-* **Institution:** Ravenshaw University, Cuttack
+- **Student Name:** Bikash Mahanandia  
+- **Roll No:** 25MCS009  
+- **SEM:** 2nd Semester  
+- **Degree:** M.Sc  
+- **Department:** Computer Science  
+- **Academic Session:** 2025 - 2026  
+- **Institution:** Ravenshaw University, Cuttack  
 
 ---
 
 ## 👩‍🏫 Academic Guidance
 This lab work was completed under the guidance of:
 
-**Tat shubhadarsini**  
+**Tat Shubhadarsini**  
 Assistant Professor  
 Department of Computer Science  
-Ravenshaw University
+Ravenshaw University  
 
 ---
 
 ## 📂 Lab Assignment Directory
-*Click the links below to view the source code or the execution output.*
+*Click the links below to view the source code or execution output.*
 
-| Task ID | Algorithm Implemented | Source Code (C File) | Execution Output |
+| Task ID | Algorithm Implemented | Source Code | Output |
 |:---:|:---|:---:|:---:|
-| **01** | **Quick Sort** | [📄 View Code](01_quick_sort.c) | [🖼️ View Screenshot](./01_output(quick_sort).png) |
-| **02** | **Merge Sort** | [📄 View Code](./02_merge_sort.c) | [🖼️ View Screenshot](./02_output(merge_sort).png) |
-| **03** | **Heap Sort** | [📄 View Code](./03_heap_sort.c) | [🖼️ View Screenshot](./03_output(heap_sort).png) |
-| **04** | **Dijkstra's Algorithm** | [📄 View Code](./04_dijkstra_algorithm.c) | [🖼️ View Screenshot](./04_output(dijkstra_algorithm).png) |
-| **05** | **LCS Algorithm** | [📄 View Code](./05_lcs_algorithm.c) | [🖼️ View Screenshot](./05_output(lcs_algorithm).png) |
+| **01** | Quick Sort | [📄 View](01_quick_sort.c) | [🖼️ Output](./01_output(quick_sort).png) |
+| **02** | Merge Sort | [📄 View](./02_merge_sort.c) | [🖼️ Output](./02_output(merge_sort).png) |
+| **03** | Heap Sort | [📄 View](./03_heap_sort.c) | [🖼️ Output](./03_output(heap_sort).png) |
+| **04** | Dijkstra's Algorithm | [📄 View](./04_dijkstra_algorithm.c) | [🖼️ Output](./04_output(dijkstra_algorithm).png) |
+| **05** | LCS Algorithm | [📄 View](./05_lcs_algorithm.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
 
 ---
 
-## 🛠️ How to Compile & Run
+## ⚙️ Local Setup & Execution Guide
 
-To test these algorithms locally, follow these steps:
+Follow these steps to run the project on your system:
 
-### 1️⃣ Compile
+---
+
+### 🔹 1. Clone the Repository
+
 ```bash
-gcc 01_quick_sort.c -o quick
+git clone https://github.com/bikash-mahanandia/DAA_LAB_MSC_CS.git
+cd DAA_LAB_MSC_CS
