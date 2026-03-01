@@ -23,7 +23,7 @@
 ## 👩‍🏫 Academic Guidance
 This lab work was completed under the guidance of:
 
-**[Madam Name]**  
+**[Tat shubhadarsini]**  
 Assistant Professor  
 Department of Computer Science  
 Ravenshaw University
