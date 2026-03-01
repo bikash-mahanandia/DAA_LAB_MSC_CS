@@ -16,7 +16,17 @@
 * **Degree:** M.Sc
 * **Department:** Computer Science
 * **Academic Session:** 2025 - 2026
-* **Institution:** Ravenshaw University , Cuttack
+* **Institution:** Ravenshaw University, Cuttack
+
+---
+
+## 👩‍🏫 Academic Guidance
+This lab work was completed under the guidance of:
+
+**[Madam Name]**  
+Assistant Professor  
+Department of Computer Science  
+Ravenshaw University
 
 ---
 
@@ -34,8 +44,9 @@
 ---
 
 ## 🛠️ How to Compile & Run
-To test these algorithms locally, follow these steps in your terminal:
 
-1. **Compile:**
-   ```bash
-   gcc 01_quick_sort.c -o 01_quick_sort
+To test these algorithms locally, follow these steps:
+
+### 1️⃣ Compile
+```bash
+gcc 01_quick_sort.c -o quick
