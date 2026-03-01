@@ -23,7 +23,7 @@
 
 | Task ID | Algorithm Implemented | Source Code (C File) | Execution Output |
 |:---:|:---|:---:|:---:|
-| **01** | **Quick Sort** | [📄 View Code](./01_quick_sort.c) | [🖼️ View Screenshot](./01_output(quick_sort).png) |
+| **01** | **Quick Sort** | [📄 View Code](01_quick_sort.c) | [🖼️ View Screenshot](./01_output(quick_sort).png) |
 | **02** | **Merge Sort** | [📄 View Code](./02_merge_sort.c) | [🖼️ View Screenshot](./02_output(merge_sort).png) |
 | **03** | **Heap Sort** | [📄 View Code](./03_heap_sort.c) | [🖼️ View Screenshot](./03_output(heap_sort).png) |
 | **04** | **Dijkstra's Algorithm** | [📄 View Code](./04_dijkstra_algorithm.c) | [🖼️ View Screenshot](./04_output(dijkstra_algorithm).png) |
