@@ -40,8 +40,11 @@ Ravenshaw University
 | **03** | Heap Sort | [📄 View](./03_heap_sort.c) | [🖼️ Output](./03_output(heap_sort).png) |
 | **04** | Dijkstra's Algorithm | [📄 View](./04_dijkstra_algorithm.c) | [🖼️ Output](./04_output(dijkstra_algorithm).png) |
 | **05** | LCS Algorithm | [📄 View](./05_lcs_algorithm.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
-| **07** | dfs Algorithm | [📄 View](./05_lcs_algorithm.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
-
+| **06** | BFS Algorithm | [📄 View](./06_bfs_algorithm.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
+| **07** | DFS Algorithm | [📄 View](./07_dfs_algorithm.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
+| **08** | Priority Queue| [📄 View](./08_priority_queue.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
+| **09** | Linear Search | [📄 View](./09_Linear_search.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
+| **10** | Binary Search | [📄 View](./10_binary_search.c) | [🖼️ Output](./05_output(lcs_algorithm).png) |
 ---
 
 ## ⚙️ Local Setup & Execution Guide
