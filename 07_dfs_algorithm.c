@@ -10,30 +10,20 @@ int adj[max][max] = {
 };
 
 int visit[max] = {0};
-int queue[max];
 
-void bfs(int node){
-    int front = 0, rear = 0;
-
+void dfs(int node){
     printf("%d->", node);
     visit[node] = 1;
-    queue[rear] = node;
 
-    while(front <= rear){
-        node = queue[front++];
-
-        for(int i = 0; i < max; i++){
-            if(adj[node][i] == 1 && visit[i] == 0){
-                printf("%d->", i);
-                visit[i] = 1;
-                queue[++rear] = i;
-            }
+    for(int i = 0; i < max; i++){
+        if(adj[node][i] == 1 && visit[i] == 0){
+            dfs(i);
         }
     }
 }
 
 int main(){
-    printf("BFS traversal : ");
-    bfs(0);
+    printf("DFS traversal : ");
+    dfs(0);
     return 0;
 }
